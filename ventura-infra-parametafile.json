@@ -73,7 +73,7 @@
     },
     {
         "ParameterKey": "VenturaProdWebServer1ImageIdPara",
-        "ParameterValue": "ami-002070d43b0a4f171"
+        "ParameterValue": "ami-0dfcb1ef8550277af"
     },
     {
         "ParameterKey": "VenturaProdWebServer1InstanceTypePara",
@@ -89,7 +89,7 @@
     },
     {
         "ParameterKey": "VenturaProdWebServer2ImageIdPara",
-        "ParameterValue": "ami-002070d43b0a4f171"
+        "ParameterValue": "ami-0dfcb1ef8550277af"
     },
     {
         "ParameterKey": "VenturaProdWebServer2InstanceTypePara",
@@ -105,7 +105,7 @@
     },
     {
         "ParameterKey": "VenturaProdAppServer1ImageIdPara",
-        "ParameterValue": "ami-002070d43b0a4f171"
+        "ParameterValue": "ami-0dfcb1ef8550277af"
     },
     {
         "ParameterKey": "VenturaProdAppServer1InstanceTypePara",
@@ -121,7 +121,7 @@
     },
     {
         "ParameterKey": "VenturaProdAppServer2ImageIdPara",
-        "ParameterValue": "ami-002070d43b0a4f171"
+        "ParameterValue": "ami-0dfcb1ef8550277af"
     },
     {
         "ParameterKey": "VenturaProdAppServer2InstanceTypePara",
