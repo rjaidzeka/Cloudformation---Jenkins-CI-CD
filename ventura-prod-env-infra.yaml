@@ -821,7 +821,7 @@ Resources:
   s3Bucket:
     Type: AWS::S3::Bucket
     Properties: 
-      BucketName: Ventura-prod-logging-bucket
+      BucketName: ventura-prod-logging-bucket
       Tags:
         - Key: Name
           Value: Prod-logs
